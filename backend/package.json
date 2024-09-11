@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ews-javascript-api": "^0.15.3",
+    "express": "^4.20.0",
+    "imap-simple": "^5.1.0",
+    "mailparser": "^3.7.1",
+    "util": "^0.12.5"
+  }
+}
